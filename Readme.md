@@ -1,5 +1,5 @@
 
-**This matlabapp is written to maunally register each Z plane in each volume.**
+**This matlabapp is written to maunally register each Z plane in a volume.**
 
 ## Workflow
 1. Load a Stack. File>Load
